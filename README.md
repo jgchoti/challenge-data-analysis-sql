@@ -1,6 +1,6 @@
 # Data Analysis with SQL
 
-Welcome to the Data Analysis with SQL challenge! This project is part of my earning journey with BeCode to shraping SQL skills and apply them to real-world data analysis scenarios.
+Welcome to the Data Analysis with SQL challenge! This project is part of my learning journey with BeCode to shraping SQL skills and apply them to real-world data analysis scenarios.
 
 ## Overview
 
